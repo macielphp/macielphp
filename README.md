@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maciel Alves</h1>
-<h3 align="center">A passionate frontend developer from São Paulo B</h3>
+<h3 align="center">A passionate frontend developer from São Paulo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macielphp&label=Profile%20views&color=00ff2a&style=flat-square" alt="macielphp" /> </p>
 
