@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maciel Alves</h1>
 <h3 align="center">A passionate frontend developer from São Paulo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=macielphp&label=Profile%20views&color=00ff2a&style=flat-square" alt="macielphp" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=macielphp" alt="macielphp" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
