@@ -5,6 +5,7 @@
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
 <div>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="img/flask.svg" alt="flask" width="40" height="40"/> 
+</a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="img/logo_node.svg" alt="NodeJs" width="40" height="40"/> 
 </a> 
 <a href="https://babeljs.io/docs/" target="_blank" rel="noreferrer"> <img src="img/babel.svg" alt="Babel" width="40" height="40"/> 
