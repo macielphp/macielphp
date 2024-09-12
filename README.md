@@ -2,7 +2,7 @@
 <h2 align="left">Languages and Tools:</h2>
 
 
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: right;">
 <div>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="img/flask.svg" alt="flask" width="40" height="40"/> 
 </a>
@@ -27,6 +27,5 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=macielphp&show_icons=true&title_color=8cff00&text_color=08007a&bg_color=faf4f4&hide_border=true&locale=en&layout=compact" alt="macielphp"/>
 <p style="margin-top: 20px">I'm a self-taught student who transforms knowledge into practice through projects like the Beneficent Association and Human Development. Determined to learn from challenges, I strive to go beyond Front-end development to always know a bit more, as I'm convinced that curiosity, continuous learning, teaching, and disciplined execution make me a promising candidate to integrate and contribute significantly to a development team.</p>
 </div>
