@@ -27,5 +27,5 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </div>
 
-<p style="margin-top: 20px">I'm a self-taught student who transforms knowledge into practice through projects like the Beneficent Association and Human Development. Determined to learn from challenges, I strive to go beyond Front-end development to always know a bit more, as I'm convinced that curiosity, continuous learning, teaching, and disciplined execution make me a promising candidate to integrate and contribute significantly to a development team.</p>
+<p style="margin-top: 20px">I'm a self-taught student who transforms knowledge into practice through projects like the Beneficent Association and Self-Dev-Room. Determined to learn from challenges, I strive to go beyond my stack to always know a bit more, as I'm convinced that curiosity, continuous learning, teaching, and disciplined execution make me a promising candidate to integrate and contribute significantly to a development team.</p>
 </div>
